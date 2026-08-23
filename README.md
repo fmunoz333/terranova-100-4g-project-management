@@ -99,7 +99,7 @@ The schedule descends as far as **six outline levels** — from the four-phase p
 
 ---
 
-## 🏛️ Solution Architecture
+## 🏢 Solution Architecture
 
 Every site is delivered through an identical technical sequence — the reason a 100-site rollout is manageable rather than a hundred bespoke projects.
 
