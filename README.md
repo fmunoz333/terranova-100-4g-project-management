@@ -168,6 +168,9 @@ A programme of this scale is only as governable as its reporting. Terranova 4G 1
 ### 1️⃣ Executive & Sponsor Layer
 *A fast, reliable read on programme health without task-level detail.*
 
+- **Timeline Views** — high-level view of the main general activities performed into the project
+![Timeline Schedule View](./images/24-timeline-view.png)
+
 - **Executive Gantt Chart** — one-page picture of progress against the 439-day baseline
 ![Executive Gantt Chart](./images/03-executive-gantt.png)
 
@@ -188,47 +191,67 @@ A programme of this scale is only as governable as its reporting. Terranova 4G 1
 ### 2️⃣ Management & PMO Layer
 *Enough granularity to intervene before a problem becomes a crisis.*
 
+- **Management Gantt Chart** — how is the updated progress of the 100-site portfolio at any moment
 ![Management Gantt Chart](./images/08-management-gantt.png)
+
+**Resources Overview** — how the resources and the ten crews are loaded across the 100-site portfolio at any moment
 ![Resources Overview Report](./images/09-resources-overview.png)
+
+**Resource Allocation Costs** — how all the resources are allocating project costs within the project
 ![Resources Allocation Report](./images/10-resources-allocation.png)
+
+- **Overallocated Resources Report** — flags before a crew, specialist role, or piece of equipment is double-booked across concurrent sites
 ![Overallocated Resources Report](./images/11-overallocated-resources.png)
+
+- **Resources Overallocation Analysis** — how the resoures are allocated timely and flags when the resource is double-booked across concurrent sites
 ![Resources Overallocation Analysis](./images/26-resource-overallocation.png)
+
+- **Cost Overruns Report** — surfaces budget pressure by crew, site, or cost category early enough to act on it
 ![Cost Overruns Report](./images/12-cost-overruns.png)
+
+- **Resource Cost Overview Report** — executive summary for each resource cost overview to take inmediate decision for possible task reasignation and cost optimization processes
 ![Resource Cost Overview Report](./images/13-resource-cost-overview.png)
 
-- **Management Gantt Chart**, **Resources Overview**, and **Resource Allocation Costs** — how the ten crews are loaded across the 100-site portfolio at any moment
-- **Overallocated Resources Report** — flags before a crew, specialist role, or piece of equipment is double-booked across concurrent sites
-- **Cost Overruns Report** — surfaces budget pressure by crew, site, or cost category early enough to act on it
 
 ### 3️⃣ Project Manager Layer
 *Tools to interrogate the full 9,057-task schedule at any level.*
 
+- **Full Gantt Charts** — detailed task sequencing and dependency logic across all six outline levels. Ideal for detailed follow-up and to determine inmediate actions on every task, at each moment.
 ![Full Gantt Chart](./images/14-full-gantt.png)
+
+- **Network Diagram** — task sequencing and dependency logic across all six outline levels, to understand task details
 ![Network Diagram](./images/15-network-diagram.png)
+
+- **Critical Tasks Report** — isolate tasks whose slippage would directly delay the 439-day finish date
 ![Critical Task Report](./images/16-critical-tasks.png)
+
+- **Critical Tasks Follow-up** — complements with previous report to analyze the timely impact of tasks which are part of the critical path
 ![Critical Task Follow-up](./images/17-critical-tasks-followup.png)
+
+- **Late Tasks Report** — flags schedule slippage as it happens, not at the next steering committee
 ![Late Task Report](./images/18-late-tasks.png)
+
+- **Task Cost Overview** — general overview of planned versus actual cost
 ![Task Cost Overview](./images/19-task-cost-overview.png)
+
+- **Work Overview** — general overview of planned versus actual effort
 ![Work Overview Report](./images/20-work-overview.png)
 
-- **Full Gantt Charts** & **Network Diagram** — task sequencing and dependency logic across all six outline levels
-- **Critical Tasks Report** & **Follow-up** — isolate tasks whose slippage would directly delay the 439-day finish date
-- **Late Tasks Report** — flags schedule slippage as it happens, not at the next steering committee
-- **Task Cost Overview** & **Work Overview** — task-by-task reconciliation of planned versus actual cost and effort
 
 ### 4️⃣ Project Team Layer
 *Tools built for daily execution, not monthly review.*
 
-![Kanban Boards](./images/21-kanban-boards.png)
-![Burndown Chart Report](./images/22-burndown-chart.png)
-![Calendar Task Follow-up](./images/23-calendar-followup.png)
-![Timeline Schedule View](./images/24-timeline-view.png)
-![Team Planning](./images/25-team-planning.png)
-
 - **Kanban Boards** — a live, visual queue of sites moving through negotiation, permitting, construction, and commissioning for each crew
+![Kanban Boards](./images/21-kanban-boards.png)
+
 - **Burndown Chart Report** — whether a crew's sprint velocity is keeping pace with the 100-site target
-- **Calendar Task Follow-up** & **Timeline Views** — keep individual specialists (RF Engineers, Permit Analysts, Negotiation Analysts) oriented to what is due this week
+![Burndown Chart Report](./images/22-burndown-chart.png)
+
+- **Calendar Task Follow-up** — keep individual specialists (RF Engineers, Permit Analysts, Negotiation Analysts) oriented to what is due this week
+![Calendar Task Follow-up](./images/23-calendar-followup.png)
+
 - **Team Planning** — keeps crew assignments and O&M handover pairings visible and current
+![Team Planning](./images/25-team-planning.png)
 
 ---
 
