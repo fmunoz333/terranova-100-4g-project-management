@@ -305,6 +305,4 @@ Closing that gap is, in the end, the programme's real deliverable.
 
 Made by Fernando Muñoz
 
-[⬆ Back to Top](#-terranova-4g-100--project-management)
-
 </div>
