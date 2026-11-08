@@ -282,6 +282,7 @@ Closing that gap is, in the end, the programme's real deliverable.
 ## 👤 About the Author & Contact
 
 **Fernando Muñoz** — Senior Data Analyst / Project & Program Management Consultant
+
 *30+ Years Leading Technology & Infrastructure Programs ($84M+ Portfolios)*
 
 - **PMP® Certified** | **Scrum Master (PSM I)** | **Six Sigma Black Belt**
