@@ -279,6 +279,19 @@ Closing that gap is, in the end, the programme's real deliverable.
 
 ---
 
+## 👤 About the Author & Contact
+
+**Fernando Muñoz** — Senior Project & Program Management Consultant  
+*30+ Years Leading Technology & Infrastructure Programs ($84M+ Portfolios)*
+
+- **PMP® Certified** | **Scrum Master (PSM I)** | **Six Sigma Black Belt**
+- 🌐 **Interactive Portfolio:** [fmunoz333.github.io/fernando-munoz-cv](https://fmunoz333.github.io/fernando-munoz-cv/)
+- 💼 **Services & Consulting:** [fmunoz333.github.io/professional-services](https://fmunoz333.github.io/professional-services/)
+- 📧 **Email:** [fxmr.consult@gmail.com](mailto:fxmr.consult@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/fernando-munoz-4737571](https://www.linkedin.com/in/fernando-munoz-4737571)
+
+---
+
 ## 🔖 Tags
 
 `project-management` `pmo` `pmbok` `agile` `waterfall` `kanban` `earned-value-management` `ms-project` `telecommunications` `4g-network` `rural-connectivity` `infrastructure` `program-management` `stakeholder-management` `procurement` `risk-management`
