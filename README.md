@@ -1,7 +1,7 @@
 > **Portfolio Showcase — hypothetical project, real methodology**
-> Terranova 4G 100 is a professional showcase derived directly from my practical experience managing a large-scale 4G mobile network build for a national telecommunications operator in Ecuador. To protect confidentiality and comply fully with NDA obligations, the programme has been re-scoped and re-situated in rural Northern Spain. The figures, geography, and company name are fictional — the PMO methodology, governance model, WBS structure, and reporting framework are the real, production-tested discipline I use to run large infrastructure programmes.
+> Terranova 100 4G is a professional showcase derived directly from my practical experience managing a large-scale 4G mobile network build for a national telecommunications operator in Ecuador. To protect confidentiality and comply fully with NDA obligations, the programme has been re-scoped and re-situated in rural Northern Spain. The figures, geography, and company name are fictional — the PMO methodology, governance model, WBS structure, and reporting framework are the real, production-tested discipline I use to run large infrastructure programmes.
 
-# 📡 Terranova 4G 100 — Project Management
+# 📡 Terranova 100 4G — Project Management
 
 [![PMBOK](https://img.shields.io/badge/PMBOK-8th%20Edition-blue.svg)](#-methodology-alignment)
 [![Methodology](https://img.shields.io/badge/Methodology-Waterfall%20%2B%20Agile-orange.svg)]()
@@ -10,7 +10,7 @@
 
 > **Turning a 9,057-task, €4.56M, 100-site rural 4G rollout into a single, governable programme — planned under PMBOK 8th Edition and executed through ten parallel crews on an Agile, Kanban-driven rhythm.**
 
-![Terranova 4G 100 Rural Site Installation](./images/01-site-installation.png)
+![Terranova 100 4G Rural Site Installation](./images/01-site-installation.png)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 🎯 Project Overview
 
-Terranova 4G 100 is a national digital-inclusion investment programme designed to bring commercial-grade 4G mobile coverage to **100 rural communities** across the Spanish provinces of Asturias, A Coruña, Lugo, and Pontevedra. The mandate: install, commission, and hand over to operations 100 new radio base stations — each built to the same standard of quality, safety, and regulatory compliance — on a compressed **14-month calendar**.
+Terranova 100 4G is a national digital-inclusion investment programme designed to bring commercial-grade 4G mobile coverage to **100 rural communities** across the Spanish provinces of Asturias, A Coruña, Lugo, and Pontevedra. The mandate: install, commission, and hand over to operations 100 new radio base stations — each built to the same standard of quality, safety, and regulatory compliance — on a compressed **14-month calendar**.
 
 The underlying planning documentation reflects that scale: **9,057 individually sequenced tasks**, ten parallel deployment crews, and a **€4.56M** capital and operating envelope, all governed through a single PMBOK 8th Edition-aligned Project Management Plan.
 
@@ -122,7 +122,7 @@ A standardized, replicable site-delivery model executed by **ten parallel, cross
 
 ## 🔄 Methodology Alignment
 
-Terranova 4G 100 is governed through a deliberate **two-stage methodology**: a waterfall backbone for Initiating and Planning, anchored in the latest **PMBOK 8th Edition**, followed by an **Agile, Kanban-driven** operating rhythm through Executing.
+Terranova 100 4G is governed through a deliberate **two-stage methodology**: a waterfall backbone for Initiating and Planning, anchored in the latest **PMBOK 8th Edition**, followed by an **Agile, Kanban-driven** operating rhythm through Executing.
 
 | Phase | Duration | Investment | Governing Focus |
 |---|---|---|---|
@@ -163,7 +163,7 @@ This structure keeps engineering, commercial, legal, and community stakeholders 
 
 ## 📊 Reporting Suite
 
-A programme of this scale is only as governable as its reporting. Terranova 4G 100 is supported by a suite of **24 purpose-built reports and dashboards**, deliberately layered by stakeholder decision-making need rather than built as a single monolithic report.
+A programme of this scale is only as governable as its reporting. Terranova 100 4G is supported by a suite of **24 purpose-built reports and dashboards**, deliberately layered by stakeholder decision-making need rather than built as a single monolithic report.
 
 ### 1️⃣ Executive & Sponsor Layer
 *A fast, reliable read on programme health without task-level detail.*
@@ -257,7 +257,7 @@ A programme of this scale is only as governable as its reporting. Terranova 4G 1
 
 ## 🌍 Programme Impact
 
-**For the operator**, Terranova 4G 100 converts a historically unprofitable class of rural sites into a disciplined, cost-predictable programme — 100 sites delivered under a single governance framework at a blended cost a scattered, one-off approach could never achieve, while building a repeatable delivery model that shortens the business case for the next rural expansion phase.
+**For the operator**, Terranova 100 4G converts a historically unprofitable class of rural sites into a disciplined, cost-predictable programme — 100 sites delivered under a single governance framework at a blended cost a scattered, one-off approach could never achieve, while building a repeatable delivery model that shortens the business case for the next rural expansion phase.
 
 **For the communities**, the impact is more immediate and human: reliable mobile coverage is the on-ramp to
 
